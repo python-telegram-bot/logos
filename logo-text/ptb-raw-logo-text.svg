@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="487.01682mm"
+   height="65.021965mm"
+   viewBox="0 0 1725.6499 230.39279"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\Hinrich\PycharmProjects\logos\logo-text\png\ptb-raw-logo-text_2048.png"
+   inkscape:export-xdpi="106.81192"
+   inkscape:export-ydpi="106.81192"
+   sodipodi:docname="ptb-raw-logo-text.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4689">
+      <stop
+         id="stop4691"
+         offset="0"
+         style="stop-color:#5a9fd4;stop-opacity:1;" />
+      <stop
+         id="stop4693"
+         offset="1"
+         style="stop-color:#306998;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       y2="141.5517"
+       x2="158.3134"
+       y1="20.603781"
+       x1="26.648937"
+       gradientTransform="matrix(1.2697887,0,0,1.2820478,-59.165232,24.967647)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1478-8"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="174.70815"
+       x2="146.52715"
+       y1="131.02763"
+       x1="123.64119"
+       id="w-4"
+       gradientTransform="matrix(0.55219931,0,0,0.46315215,37.264455,41.82163)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop12-9"
+         offset="0"
+         stop-color="#eff7fc" />
+      <stop
+         id="stop14-5"
+         offset="1"
+         stop-color="#fff" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="1604.7616"
+     inkscape:cy="159.06507"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     height="50mm"
+     inkscape:window-width="1822"
+     inkscape:window-height="1051"
+     inkscape:window-x="1791"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text-Outline"
+     transform="translate(-0.17678571,52.975053)">
+    <text
+       id="text4734"
+       y="95.531914"
+       x="195.9296"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.98000004;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.99999905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="95.531914"
+         x="195.9296"
+         id="tspan4736"
+         sodipodi:role="line">python-telegram-bot-raw</tspan></text>
+  </g>
+  <g
+     inkscape:label="Main"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.17678571,-822.22179)"
+     style="display:inline;opacity:1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#646464;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="195.9296"
+       y="970.72876"
+       id="text4730"
+       inkscape:export-filename="C:\Users\Hinrich\PycharmProjects\logos\logo-text\png\ptb-raw-logo-text_240.png"
+       inkscape:export-xdpi="12.52"
+       inkscape:export-ydpi="12.52"><tspan
+         sodipodi:role="line"
+         id="tspan4732"
+         x="195.9296"
+         y="970.72876"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#646464;fill-opacity:1">python-telegram-bot-raw</tspan></text>
+    <g
+       id="g4188"
+       transform="matrix(1.0165165,0,0,1.0165165,-17.365997,836.05087)"
+       inkscape:export-filename="C:\Users\Hinrich\PycharmProjects\logos\logo-text\png\ptb-raw-logo-text_240.png"
+       inkscape:export-xdpi="12.52"
+       inkscape:export-ydpi="12.52">
+      <g
+         inkscape:label="Python-Outline"
+         id="layer2-9">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.68301105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 160.54393,161.5468 V 39.259884 c 0,-16.401855 -13.9517,-22.669911 -30.37597,-25.407306 -10.39679,-1.730693 -21.18372,-2.514772 -31.530138,-2.466693 -10.346375,0.04809 -20.227661,0.928293 -28.92155,2.466693 -25.611147,4.524631 -30.260199,13.996407 -30.260199,31.461557 v 23.065814 h 60.522642 v 7.688366 H 39.456073 v 85.478215 c -0.0038,3.85857 2.526745,6.0582 6.508473,6.05451 h 8.627509 v 11.24792 c 0,4.33326 2.603824,8.12891 7.558531,9.31573 5.679237,1.36897 9.224867,1.4297 15.154901,0 4.414088,-1.05986 7.558531,-3.59187 7.558531,-7.9251 v -12.63855 h 30.271962 v 11.24792 c 0,4.33326 2.60384,8.12891 7.55854,9.31573 5.67923,1.36897 9.22486,1.4297 15.15489,0 4.41409,-1.05986 7.55853,-3.59187 7.55853,-7.9251 v -12.63855 h 9.08159 c 3.08781,7.4e-4 6.05782,-2.61639 6.0544,-6.05424 z M 65.908566,29.936923 c 6.251536,0 11.356716,5.187436 11.356716,11.567201 0,6.357127 -5.10518,11.49861 -11.356716,11.49861 -6.273925,-1.2e-5 -11.356716,-5.141483 -11.356716,-11.49861 0,-6.379765 5.082791,-11.567201 11.356716,-11.567201 z"
+           id="path4153-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cscscscccccccsccsccsccscccsssss" />
+      </g>
+      <g
+         transform="translate(0,-40)"
+         style="display:inline"
+         inkscape:label="Python"
+         id="layer1-5">
+        <path
+           sodipodi:nodetypes="cscscscccccccsccsccsccscccsssss"
+           inkscape:connector-curvature="0"
+           id="path1948-2"
+           d="M 160.54393,201.5468 V 79.259884 c 0,-16.401855 -13.9517,-22.669911 -30.37597,-25.407306 -10.39679,-1.730693 -21.18372,-2.514772 -31.530138,-2.466693 -10.346375,0.04809 -20.227661,0.928293 -28.92155,2.466693 -25.611147,4.524631 -30.260199,13.996407 -30.260199,31.461557 v 23.065815 h 60.522642 v 7.68836 H 39.456073 v 85.47822 c -0.0038,3.85857 2.526745,6.0582 6.508473,6.05451 h 8.627509 v 11.24792 c 0,4.33326 2.603824,8.12891 7.558531,9.31573 5.679237,1.36897 9.224867,1.4297 15.154901,0 4.414088,-1.05986 7.558531,-3.59187 7.558531,-7.9251 v -12.63855 h 30.271962 v 11.24792 c 0,4.33326 2.60384,8.12891 7.55854,9.31573 5.67923,1.36897 9.22486,1.4297 15.15489,0 4.41409,-1.05986 7.55853,-3.59187 7.55853,-7.9251 v -12.63855 h 9.08159 c 3.08781,7.4e-4 6.05782,-2.61639 6.0544,-6.05424 z M 65.908566,69.936923 c 6.251536,0 11.356716,5.187436 11.356716,11.567201 0,6.357127 -5.10518,11.49861 -11.356716,11.49861 -6.273925,-1.2e-5 -11.356716,-5.141483 -11.356716,-11.49861 0,-6.379765 5.082791,-11.567201 11.356716,-11.567201 z"
+           style="fill:url(#linearGradient1478-8);fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         style="display:inline"
+         inkscape:label="Telegram"
+         id="layer4-0">
+        <g
+           transform="matrix(1.22464,0,0,1.22464,-21.767671,-7.3646984)"
+           id="g4305-3">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c8daea"
+             d="m 86.824975,130.32256 c -1.966036,0 -1.631958,-0.74235 -2.310026,-2.61432 L 78.733461,108.68074 123.23678,82.2792"
+             id="path18-6-1" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#a9c9dd"
+             d="m 86.824975,130.32256 c 1.517158,0 2.18749,-0.69385 3.034317,-1.51716 l 8.091518,-7.86799 -10.093156,-6.08633"
+             id="path20-9-0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:url(#w-4)"
+             d="m 87.856642,114.8526 24.456598,18.06885 c 2.79081,1.53987 4.80504,0.7426 5.5002,-2.59105 l 9.95509,-46.91207 c 1.01923,-4.086315 -1.55766,-5.939676 -4.22751,-4.727568 L 65.084899,101.23119 c -3.990178,1.60045 -3.966915,3.82658 -0.727326,4.8185 l 15.00116,4.6821 34.729277,-21.9103 c 1.63949,-0.9942 3.14421,-0.4597 1.90919,0.6364"
+             id="path22-5-1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
